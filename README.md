@@ -6,6 +6,6 @@ I went on to be a Clinical, and, Simulation Instructor for the subsequent 6 year
 
 Fascinated with the technological sophistication of our simulator lab, I began seeking further education in the tech realm. Given an opportunity to be involved in a consulting startup specializing in anesthesia education program development, I started as a User Experience (UX) Designer.
 
-From UX, I went on to learn the fundamentals of front-end development. Nowadays, I’m looking to broaden my programming skillset at [Upstream Coding](https://www.upstreamcoding.com).
+From UX, I went on to learn the fundamentals of front-end development. Nowadays, I’m teaching Modern Web Development while continuing to broaden my hard programming skillset at [Upstream Coding](https://www.upstreamcoding.com).
 
-[See my LinkedIn profile](https://www.linkedin.com/in/williambellhealthtech) for more career details!
+[See my LinkedIn profile](https://www.linkedin.com/in/wbellhealthtech/) for more career details!
